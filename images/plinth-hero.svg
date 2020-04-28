@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="581px" viewBox="0 0 1440 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.6839735%" y1="-11.5132974%" x2="66.6839735%" y2="132.957471%" id="linearGradient-1">
+            <stop stop-color="#FF460F" stop-opacity="0.491832386" offset="0%"></stop>
+            <stop stop-color="#AF8073" stop-opacity="0" offset="64.8859797%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF236E" stop-opacity="0.401524257" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.1474873%" id="linearGradient-3">
+            <stop stop-color="#5B02FF" stop-opacity="0.33164882" offset="0%"></stop>
+            <stop stop-color="#8676A2" stop-opacity="0" offset="54.6743032%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -126.000000)">
+            <g id="Group-4" transform="translate(0.000000, 126.000000)">
+                <text id="􀋖" font-family="SFProDisplay-Thin, SF Pro Display" font-size="48" font-weight="300" fill="#241E24">
+                    <tspan x="1047.32422" y="208">􀋖</tspan>
+                </text>
+                <g id="plinth-hero-background" transform="translate(0.000000, 2.000000)">
+                    <path d="M0,507.18949 C37.8745432,464.196178 103.9064,442.699523 198.095572,442.699523 C339.379329,442.699523 335.616672,515.27143 510.744316,507.18949 C685.871959,499.107549 699.311069,472.522163 836.599563,413.233294 C973.888057,353.944424 1096.60946,391.840528 1221.20754,335.526646 C1345.80562,279.212763 1408.32319,125 1440,125 C1440,169.74074 1440,321.074073 1440,579 L0,579 L0,507.18949 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M0,507.085826 C36.8025112,524.584753 102.298353,533.334216 196.487524,533.334216 C337.771281,533.334216 332.5376,471.420268 507.665243,463.326661 C682.792887,455.233054 764.769744,488.941679 902.058238,429.567222 C1039.34673,370.192764 1089,284.499827 1212.64556,263.050469 C1336.29111,241.60111 1385.77606,125.912609 1440,0 C1440,44.8053265 1440,237.805327 1440,579 L0,579 L0,507.085826 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <path d="M0,536.080598 C34.0616145,507.755294 98.1870074,493.592643 192.376179,493.592643 C333.659936,493.592643 332.5376,544.169649 507.665243,536.080598 C682.792887,527.991546 750.922166,397.213716 894.558606,397.213716 C1038.19505,397.213716 1081.3154,313.820929 1204.96096,292.383646 C1328.60651,270.946362 1381.79083,233.078502 1440,159 C1440,203.780104 1440,343.780104 1440,579 L0,579 L0,536.080598 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                </g>
+                <circle id="Oval" fill-opacity="0.2" fill="#3F4D5C" cx="918" cy="390" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#3F4D5C" cx="1074" cy="324" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#FF3636" cx="999" cy="376" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#FF7036" cx="1156" cy="280" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#FF367E" cx="1268" cy="246" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#FF3679" cx="1358" cy="162" r="7"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#FF3636" cx="1438" cy="7" r="7"></circle>
+                <line x1="998.5" y1="368.5" x2="998.5" y2="278.5" id="Line" stroke="#330B0B" stroke-width="0.5" stroke-linecap="square"></line>
+                <g id="Group-7" transform="translate(986.000000, 254.000000)">
+                    <circle id="Oval" fill="#330B0B" cx="12.5" cy="12.5" r="12.5"></circle>
+                    <text id="􀊝" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" fill="#0B0026">
+                        <tspan x="4" y="17">􀊝</tspan>
+                    </text>
+                </g>
+                <g id="Group-7" transform="translate(1342.000000, 34.000000)" fill="#330B0B">
+                    <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                </g>
+                <line x1="1155.5" y1="273.5" x2="1155.5" y2="227.5" id="Line" stroke="#33160B" stroke-width="0.5" stroke-linecap="square"></line>
+                <g id="Group-7" transform="translate(1137.000000, 192.000000)">
+                    <circle id="Oval" fill="#33160B" cx="18" cy="18" r="18"></circle>
+                    <text id="􀉪" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#0B0026">
+                        <tspan x="10" y="23">􀉪</tspan>
+                    </text>
+                </g>
+                <circle id="Oval" fill="#330B19" cx="1267" cy="159" r="14"></circle>
+                <text id="􀍬" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" fill="#0B0026">
+                    <tspan x="1258" y="164">􀍬</tspan>
+                </text>
+                <line x1="1267.5" y1="239.5" x2="1267.5" y2="173.5" id="Line" stroke="#330B19" stroke-width="0.5" stroke-linecap="square"></line>
+                <line x1="1074.5" y1="317.5" x2="1075" y2="215" id="Line" stroke="#251F24" stroke-width="0.5" stroke-linecap="square"></line>
+                <text id="􀍰" font-family="SFProDisplay-Thin, SF Pro Display" font-size="16" font-weight="300" fill="#0B0026">
+                    <tspan x="1347.15234" y="56">􀍰</tspan>
+                </text>
+                <line x1="1357.5" y1="155.5" x2="1357.5" y2="65.5" id="Line" stroke="#330B0B" stroke-width="0.5" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
